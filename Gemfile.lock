@@ -23,6 +23,8 @@ GEM
     sqlite3 (1.4.2)
 
 PLATFORMS
+  ruby
+  ruby
   x86_64-darwin-19
 
 DEPENDENCIES
